@@ -25,7 +25,7 @@ Instale a skill "secretaria" de https://github.com/felipeJJD/secretaria para mim
 Descubra se você é o Claude Code ou o Codex. Clone o repositório na pasta de skills
 do usuário: ~/.claude/skills/secretaria (Claude Code) ou ~/.agents/skills/secretaria (Codex).
 Se a pasta já existir, só atualize com git pull. Confira que o SKILL.md está lá, rode
-"python scripts/catalogo.py --busca teste" dentro dela para testar e me diga para
+"python scripts/catalogo.py" dentro dela para testar (deve listar as minhas skills) e me diga para
 reiniciar a sessão e chamar /secretaria (Claude Code) ou $secretaria (Codex).
 ```
 
